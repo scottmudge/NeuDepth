@@ -1,0 +1,8 @@
+
+.vscode/
+
+out/
+
+vid_temp/
+
+*.mp4

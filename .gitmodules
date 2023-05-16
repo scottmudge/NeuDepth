@@ -1,0 +1,3 @@
+[submodule "zoe"]
+	path = zoe
+	url = https://github.com/isl-org/ZoeDepth.git
