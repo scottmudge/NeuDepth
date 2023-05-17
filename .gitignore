@@ -6,3 +6,9 @@ out/
 vid_temp/
 
 *.mp4
+
+scan_sequences/
+
+config/
+
+config.json
